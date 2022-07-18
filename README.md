@@ -1,5 +1,5 @@
 # variabledensity
-A conservative finite element method for the incompressible Euler equations with variable density
+### A conservative finite element method for the incompressible Euler equations with variable density
 
 This code implements the numerical method described in
 
